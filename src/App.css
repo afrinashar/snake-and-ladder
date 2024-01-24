@@ -57,13 +57,13 @@
 }
 
 .player {
-  border-radius: 5px;
+  border-radius: 5px;height: 2px;
   background-color: #3498db;
   color: #fff;
   font-weight: bold;
 }  
 .players {
-  background-color: #db3434;
+  background-color: #ff05de;
   color: #fff;
   font-weight: bold;
 } 
